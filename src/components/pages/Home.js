@@ -2,7 +2,7 @@ import { useNavigate } from "react-router-dom"
 
 const Home = () => {
   const navigate = useNavigate();
-  console.log("Changes")
+  console.log("Changes 123")
   return (
     <>
     <h1>
